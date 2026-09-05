@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 ![Center Infos App](https://github.com/papa-boynton/Center_Infos-TheyCallMePapa)&emsp;
 ![Iconic App](https://github.com/papa-boynton/Iconic-TheyCallMePapa)&emsp;
-![Iconic App](https://github.com/papa-boynton/Hide_Settings_Menu-TheyCallMePapa)<br>
+![Hide Settings Menu App](https://github.com/papa-boynton/Hide_Settings_Menu-TheyCallMePapa)<br>
 
 </div>
