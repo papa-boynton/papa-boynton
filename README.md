@@ -28,14 +28,9 @@ Here are some ideas to get you started:
 
 - ­ **Currently building:** Droptop Community Apps
 
-## GitHub Stats
+<!--## GitHub Stats -->
+## Repositories
+![Yahoo Mail App](https://github.com/papa-boynton/YahooMail-TheyCallMePapa)<br>
+![Tooltipster App](https://github.com/papa-boynton/ToolTipster-TheyCallMePapa)<br>
 
-<div align="center">
 
-![TheyCallMePapa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=papa-boynton&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papa-boynton&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papa-boynton&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
