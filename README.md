@@ -30,7 +30,20 @@ Here are some ideas to get you started:
 
 <!--## GitHub Stats -->
 ## Repositories
-![Yahoo Mail App](https://github.com/papa-boynton/YahooMail-TheyCallMePapa)<br>
-![Tooltipster App](https://github.com/papa-boynton/ToolTipster-TheyCallMePapa)<br>
+<div align="center">
 
+![Yahoo Mail App](https://github.com/papa-boynton/YahooMail-TheyCallMePapa)&emsp;
+![Tooltipster App](https://github.com/papa-boynton/ToolTipster-TheyCallMePapa)&emsp;
+![Theme Me App](https://github.com/papa-boynton/Theme_Me-TheyCallMePapa)&emsp;
+![Seachbar App](https://github.com/papa-boynton/Searchbar-TheyCallMePapa)&emsp;
+![MacOs About Box App](https://github.com/papa-boynton/MacOS_About_Box-TheyCallMePapa)&emsp;
+![Droptop Night Light App](https://github.com/papa-boynton/Droptop_Night_Light-TheyCallMePapa)<br>
 
+![Youtube Checker App](https://github.com/papa-boynton/YouTube_Checker-TheyCallMePapa)&emsp;
+![PC Scanner App](https://github.com/papa-boynton/PC_Scanner-TheyCallMePapa)&emsp;
+![VPN Status App](https://github.com/papa-boynton/VPN_Status-TheyCallMePapa)&emsp;
+![CoreTemps App](https://github.com/papa-boynton/CoreTemps-TheyCallMePapa)&emsp;
+![Control Center App](https://github.com/papa-boynton/Control-Center-TheyCallMePapa)&emsp;
+![Idle Screen App](https://github.com/papa-boynton/IdleScreen-TheyCallMePapa)<br>
+
+</div>
