@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 ![Control Center App](https://github.com/papa-boynton/Control-Center-TheyCallMePapa)&emsp;
 ![Idle Screen App](https://github.com/papa-boynton/IdleScreen-TheyCallMePapa)<br>
 
+![Center Infos App](https://github.com/papa-boynton/Center_Infos-TheyCallMePapa)&emsp;
+![Iconic App](https://github.com/papa-boynton/Iconic-TheyCallMePapa)&emsp;
+
 </div>
