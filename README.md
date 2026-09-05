@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Droptop%20Apps%20Developer%20;Open%20Source%20Enthusiast%20%C2%AD%C2%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Droptop%20Community%20Apps%20Developer%20;Open%20Source%20Enthusiast%20%C2%AD%C2%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- ­ **Currently building:** Droptop Apps
+- ­ **Currently building:** Droptop Community Apps
 
 ## GitHub Stats
 
