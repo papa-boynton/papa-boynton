@@ -16,11 +16,11 @@
 ### 💻Community Apps
 <div align="center">
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- |
-| ![Yahoo Mail App](https://github.com/papa-boynton/YahooMail-TheyCallMePapa) `Public`| ![Tooltipster App](https://github.com/papa-boynton/ToolTipster-TheyCallMePapa)  `Public`| ![Theme Me App](https://github.com/papa-boynton/Theme_Me-TheyCallMePapa)  `Public`| ![Seachbar App](https://github.com/papa-boynton/Searchbar-TheyCallMePapa)  `Public`| ![MacOs About Box App](https://github.com/papa-boynton/MacOS_About_Box-TheyCallMePapa)  `Public`| ![Droptop Night Light App](https://github.com/papa-boynton/Droptop_Night_Light-TheyCallMePapa)  `Public`|
-| ![Youtube Checker App](https://github.com/papa-boynton/YouTube_Checker-TheyCallMePapa)  `Public`| ![PC Scanner App](https://github.com/papa-boynton/PC_Scanner-TheyCallMePapa)  `Public`| ![VPN Status App](https://github.com/papa-boynton/VPN_Status-TheyCallMePapa)  `Public`| ![CoreTemps App](https://github.com/papa-boynton/CoreTemps-TheyCallMePapa)  `Public`| ![Control Center App](https://github.com/papa-boynton/Control-Center-TheyCallMePapa)  `Public`| ![Idle Screen App](https://github.com/papa-boynton/IdleScreen-TheyCallMePapa)  `Public`|
-| ![Center Infos App](https://github.com/papa-boynton/Center_Infos-TheyCallMePapa)  `Public`| ![Iconic App](https://github.com/papa-boynton/Iconic-TheyCallMePapa)  `Public`| ![Hide Settings Menu App](https://github.com/papa-boynton/Hide_Settings_Menu-TheyCallMePapa)  `Public`|  |  |  |
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| ![Yahoo Mail App](https://github.com/papa-boynton/YahooMail-TheyCallMePapa) `Public`| ![Tooltipster App](https://github.com/papa-boynton/ToolTipster-TheyCallMePapa)  `Public`| ![Theme Me App](https://github.com/papa-boynton/Theme_Me-TheyCallMePapa)  `Public`| ![Seachbar App](https://github.com/papa-boynton/Searchbar-TheyCallMePapa)  `Public`| ![MacOs About Box App](https://github.com/papa-boynton/MacOS_About_Box-TheyCallMePapa)  `Public`|
+![Droptop Night Light App](https://github.com/papa-boynton/Droptop_Night_Light-TheyCallMePapa)  `Public`| ![Youtube Checker App](https://github.com/papa-boynton/YouTube_Checker-TheyCallMePapa)  `Public`| ![PC Scanner App](https://github.com/papa-boynton/PC_Scanner-TheyCallMePapa)  `Public`| ![VPN Status App](https://github.com/papa-boynton/VPN_Status-TheyCallMePapa)  `Public`| ![CoreTemps App](https://github.com/papa-boynton/CoreTemps-TheyCallMePapa)  `Public`
+| ![Control Center App](https://github.com/papa-boynton/Control-Center-TheyCallMePapa)  `Public`| ![Idle Screen App](https://github.com/papa-boynton/IdleScreen-TheyCallMePapa)  `Public`| ![Center Infos App](https://github.com/papa-boynton/Center_Infos-TheyCallMePapa)  `Public`| ![Iconic App](https://github.com/papa-boynton/Iconic-TheyCallMePapa)  `Public`| ![Hide Settings Menu App](https://github.com/papa-boynton/Hide_Settings_Menu-TheyCallMePapa)  `Public`|  |  |  |
 
 </div>
 
