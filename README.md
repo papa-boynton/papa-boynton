@@ -8,7 +8,7 @@
 > A grandfather learning to code
 
 ### About Me
-### Hi, I'm TheyCallMePapa! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=papa-boynton)
+### Hi, I'm TheyCallMePapa! 👋 &emsp;&emsp;&emsp;&emsp;![Profile Views](https://komarev.com/ghpvc/?username=papa-boynton)
 
 - ­ **Currently building:** Droptop Community Apps
 
